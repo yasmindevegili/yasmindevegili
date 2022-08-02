@@ -5,3 +5,7 @@
 - I like do try front-end web development 💻
 - My pronouns are she and her ✨
 - My hobbies includes admiring nature, take walks and read classical literature 📚
+
+<p align="left">
+  <img src="your_relative_path_here" width="350" title="hover text">
+</p>
