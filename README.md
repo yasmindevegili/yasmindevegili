@@ -1,4 +1,6 @@
 # Hello, it's Yas here! 👋
+![alt text]()
+
 ### I'm currently a computer science student and also an english fluent speaker.
 #### My skills are being improved yet! 😊
 - I study at Udesc in Joinville, SC 🎓
