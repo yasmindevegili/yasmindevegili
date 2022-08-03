@@ -18,7 +18,7 @@
 </div>
 
 <div style="display: inline_block">
-<img align="right" alt="pic" height="150" style="border-radius:50px;" src="gif.gif">
+<img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://github.com/yasmindevegili/yasmindevegili/blob/18694683a46e482bdf3fcb8fb628031dc8f797b9/799f10aae113e34c771066f2a317efe3.gif">
 </div>
  
 ##
