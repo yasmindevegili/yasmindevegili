@@ -26,7 +26,7 @@
 <img align="center" alt="CSS3" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
 <img align="center" alt="PHP" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 <img align="center" alt="C" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">   
-<img align="center" alt="GIF" height="50" widht="50" src="">  
+<img align="right" alt="GIF" src="https://github.com/yasmindevegili/yasmindevegili/blob/5dce5677563506aaac1a3d60eefd0d9ddde671ac/giphy-2021-gifs-and-clips-animation-itsnicethat-02.gif">  
 
 ##
 
