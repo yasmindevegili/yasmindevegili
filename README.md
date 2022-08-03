@@ -10,17 +10,15 @@
 
 ##
 
-<div style="display: inline_block"><br>
+<!--<div style="display: inline_block"><br>
   <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://github.com/yasmindevegili/yasmindevegili/blob/5dce5677563506aaac1a3d60eefd0d9ddde671ac/giphy-2021-gifs-and-clips-animation-itsnicethat-02.gif">
-</div>
+</div>---!>
 
-<div align="center">
+<div align=center style="display: inline_block">
   <a href="https://github.com/yasmindevegili">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmindevegili&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmindevegili&layout=compact&langs_count=7&theme=flag-india"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmindevegili&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmindevegili&layout=compact&langs_count=7&theme=buefy"/>
 </div>
-
-##
 
 <div align=center style="display: inline_block"><br>
 <img align="center" alt="Canva" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">  
