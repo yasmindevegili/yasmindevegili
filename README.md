@@ -10,10 +10,14 @@
 
 ##
 
-<div>        
-<a href="https://beacons.ai/yasmindevegili">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmindevegili&show_icons=true&theme=buefy&icon_color=bea8c7" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmindevegili&layout=compact)](https://github.com/yasmindevegili/github-readme-stats" />
+<div style="display: inline_block"><br>
+  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://github.com/yasmindevegili/yasmindevegili/blob/5dce5677563506aaac1a3d60eefd0d9ddde671ac/giphy-2021-gifs-and-clips-animation-itsnicethat-02.gif">
+</div>
+
+<div align="center">
+  <a href="https://github.com/yasmindevegili">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmindevegili&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmindevegili&layout=compact&langs_count=7&theme=flag-india"/>
 </div>
 
 ##
@@ -26,7 +30,6 @@
 <img align="center" alt="CSS3" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
 <img align="center" alt="PHP" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 <img align="center" alt="C" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">   
-<img align="right" alt="GIF" src="https://github.com/yasmindevegili/yasmindevegili/blob/5dce5677563506aaac1a3d60eefd0d9ddde671ac/giphy-2021-gifs-and-clips-animation-itsnicethat-02.gif">  
 
 ##
 
