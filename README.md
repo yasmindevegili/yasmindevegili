@@ -8,10 +8,7 @@
 - My pronouns are she and her ✨
 - My hobbies includes admiring nature, take walks and read classical literature 📚
 
-<div>
-  <a href="https://github.com/yasmindevegili">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasmindevegili&theme=buefy&show_icons=true&icon_color=000000&hide_border='boolean'"/>
-  
+![Yasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmindevegili&show_icons=true&theme=buefy&icon_color=bea8c7)
 
           
           
