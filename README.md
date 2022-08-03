@@ -1,5 +1,5 @@
 ![alt text](https://github.com/yasmindevegili/yasmindevegili/blob/aada55198ee3f25025a1daf29855c22b4ab734b1/Hello%20world!%20(1).png)
-
+<img align="right" alt="pic" height="150" style="border-radius:50px" src="https://github.com/yasmindevegili/yasmindevegili/blob/1f4d83d5362cab5edad4a530f9f64a1fa17e5b6f/799f10aae113e34c771066f2a317efe3%20(1).gif">
 ### I'm currently a computer science student and also an english fluent speaker.
 #### My skills are being improved yet! 😊
 
@@ -7,7 +7,7 @@
 - I like do try front-end web development 💻
 - My pronouns are she and her ✨
 - My hobbies includes admiring nature, take walks and read classical literature 📚
-  <img align="right" alt="pic" height="150" style="border-radius:50px" src="https://www.pinterest.com/pin/444097213266308473/sent/?invite_code=8d60c419c7b9494eb2ab6c0477d413c2&sender=824862625409096542&sfo=1">
+  
 ##
 
 
