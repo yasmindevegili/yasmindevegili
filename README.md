@@ -7,7 +7,7 @@
 - I like do try front-end web development 💻
 - My pronouns are she and her ✨
 - My hobbies includes admiring nature, take walks and read classical literature 📚
-
+  <img align="right" alt="pic" height="150" style="border-radius:50px" src="https://www.pinterest.com/pin/444097213266308473/sent/?invite_code=8d60c419c7b9494eb2ab6c0477d413c2&sender=824862625409096542&sfo=1">
 ##
 
 
@@ -15,10 +15,6 @@
   <a href="https://github.com/yasmindevegili">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmindevegili&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmindevegili&layout=compact&langs_count=7&theme=buefy" />
-</div>
-
-<div style="display: inline_block">
-<img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://github.com/yasmindevegili/yasmindevegili/blob/18694683a46e482bdf3fcb8fb628031dc8f797b9/799f10aae113e34c771066f2a317efe3.gif">
 </div>
  
 ##
