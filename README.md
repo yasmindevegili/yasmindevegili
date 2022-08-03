@@ -17,7 +17,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmindevegili&layout=compact&langs_count=7&theme=buefy" />
 </div>
 
- <img align="right" alt="pic" height="150" style="border-radius:50px;"    src="https://github.com/yasmindevegili/yasmindevegili/blob/31c0ce9119749eb4b8ad59e1ca0363d74b3491b7/gif.gif">
+<div style="display: inline_block">
+<img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://github.com/yasmindevegili/yasmindevegili/blob/31c0ce9119749eb4b8ad59e1ca0363d74b3491b7/gif.gif">
+</div>
  
 ##
 
