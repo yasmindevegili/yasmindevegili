@@ -27,13 +27,16 @@
 <img align="center" alt="CSS3" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
 <img align="center" alt="PHP" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 <img align="center" alt="C" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">   
-
+##
+  My Project
+  <a href="https://yasmindevegili.github.io/Help_Fotografos.github.io"><img src="https://github.com/yasmindevegili/Help_Fotografos.github.io/blob/b20c1930350286202b2fdfd20e54a6380a240de5/logo/help_logo_fundoTransparente.png" width=8%></a>
+  <a href="https://github.com/yasmindevegili/Help_Fotografos.github.io/blob/b20c1930350286202b2fdfd20e54a6380a240de5/README.md">See what it's about.</a>
+  
 ##
 
 <div><br>
 <a href="https://www.instagram.com/yasmindevegili/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto:yasmindevegili@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://yasmindevegili.github.io/Help_Fotografos.github.io"><img src="https://github.com/yasmindevegili/Help_Fotografos.github.io/blob/b20c1930350286202b2fdfd20e54a6380a240de5/logo/help_logo_fundoTransparente.png" width=8%></a>
 </div>
 
 ![Snake animation](https://github.com/yasmindevegili/yasmindevegili/blob/output/github-contribution-grid-snake.svg)
