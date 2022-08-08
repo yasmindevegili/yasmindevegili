@@ -11,10 +11,6 @@
 - My hobbies includes admiring nature, take walks and read classical literature 📚
   
 ##
-<button class="w3-button w3-khaki">Khaki</button>
-##
-
-
 <div align=center style="display: inline_block">
   <a href="https://github.com/yasmindevegili">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmindevegili&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
@@ -37,6 +33,7 @@
 <div><br>
 <a href="https://www.instagram.com/yasmindevegili/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto:yasmindevegili@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://yasmindevegili.github.io/Help_Fotografos.github.io/)"><img src="https://github.com/yasmindevegili/Help_Fotografos.github.io/blob/b20c1930350286202b2fdfd20e54a6380a240de5/logo/help_logo_fundoTransparente.png" width=8%></a>
 </div>
 
 ![Snake animation](https://github.com/yasmindevegili/yasmindevegili/blob/output/github-contribution-grid-snake.svg)
