@@ -11,6 +11,8 @@
 - My hobbies includes admiring nature, take walks and read classical literature 📚
   
 ##
+<button class="w3-button w3-khaki">Khaki</button>
+##
 
 
 <div align=center style="display: inline_block">
