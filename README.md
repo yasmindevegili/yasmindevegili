@@ -1,6 +1,6 @@
 ![alt text](https://github.com/yasmindevegili/yasmindevegili/blob/aada55198ee3f25025a1daf29855c22b4ab734b1/Hello%20world!%20(1).png)
 
-<img align="right" alt="pic" height="150" style="border-radius:1000px" src="https://github.com/yasmindevegili/yasmindevegili/blob/8f719b4a3112387d916285ec6212c95eaa7c01a6/goma-cat.gif">
+<img align="right" alt="pic" height="100" style="border-radius:50px" src="https://github.com/yasmindevegili/yasmindevegili/blob/8f719b4a3112387d916285ec6212c95eaa7c01a6/goma-cat.gif">
 
 ### I'm currently a computer science student and also an english fluent speaker.
 #### My skills are being improved yet! 😊
