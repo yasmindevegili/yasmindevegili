@@ -17,11 +17,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmindevegili&layout=compact&langs_count=7&theme=buefy" />
 </div>
 
-#### As you are here, take a look at my latest projects:
-<div align="center>
   <a href="https://yasmindevegili.github.io/Help_Fotografos/">Help Fotográfos</a>
   <a href="https://learning-react-todos.vercel.app/">To Do's</a>
-  <br>                                                                                                                                </div>
+  <br>                                                                                                                                
 
 <div align="center"><br>
 <a href="mailto:yasmindevegili@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
