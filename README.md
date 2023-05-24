@@ -20,7 +20,7 @@
 ##
 <ul>
   <li>
-    <a href="https://yasmindevegili.github.io/Help_Fotografos/" text-decoration="none">Help Fotográfos</a>
+    <a href="https://yasmindevegili.github.io/Help_Fotografos/" text-decoration=:none>Help Fotográfos</a>
   </li>
   <li>
     <a href="https://learning-react-todos.vercel.app/">To Do's</a>
