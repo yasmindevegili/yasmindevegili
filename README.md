@@ -20,8 +20,8 @@
 ##
 #### As you are here, take a look at my latest projects:
 <div align="center>
-  <a href="https://yasmindevegili.github.io/Help_Fotografos/" width=5%>elp Fotográfos</a>?
-  <a href="https://learning-react-todos.vercel.app/" width=5%>To Do's</a>?
+  <a href="https://yasmindevegili.github.io/Help_Fotografos/">Help Fotográfos</a>?
+  <a href="https://learning-react-todos.vercel.app/">To Do's</a>?
   <br>                                                                                                                                </div>
 ##
 
