@@ -16,12 +16,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmindevegili&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmindevegili&layout=compact&langs_count=7&theme=buefy" />
 </div>
- 
+
+##
 <div align="center>
 #### As you are here, take a look at my latest projects:
-<a href="https://yasmindevegili.github.io/Help_Fotografos/" width=5%>elp Fotográfos</a>?
-<a href="https://learning-react-todos.vercel.app/" width=5%>To Do's</a>?
-<br>                                                                                                                                     </div>
+  <a href="https://yasmindevegili.github.io/Help_Fotografos/" width=5%>elp Fotográfos</a>?
+  <a href="https://learning-react-todos.vercel.app/" width=5%>To Do's</a>?
+  <br>                                                                                                                                </div>
 ##
 
 <div align="center"><br>
