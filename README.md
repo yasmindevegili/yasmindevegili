@@ -17,14 +17,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmindevegili&layout=compact&langs_count=7&theme=buefy" />
 </div>
  
-##
 <div align="center>
 #### As you are here, take a look at my latest projects:
 <a href="https://yasmindevegili.github.io/Help_Fotografos.github.io"><img src="https://icones.pro/wp-content/uploads/2021/02/icono-de-camara-rojo.png" width=5%>See whats it's about</a>
 <br>                                                                                                                                     </div>
 ##
 
-<div><br>
+<div align="center"><br>
 <a href="mailto:yasmindevegili@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/yasmindevegili/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
