@@ -1,5 +1,4 @@
-# Hello World!
-## It's Yas here
+# Hello World! It's Yas here
 
 <img align="right" alt="pic" height="100" style="border-radius:50px" src="https://github.com/yasmindevegili/yasmindevegili/blob/8f719b4a3112387d916285ec6212c95eaa7c01a6/goma-cat.gif">
 
