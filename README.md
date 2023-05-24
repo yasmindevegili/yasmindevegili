@@ -40,6 +40,6 @@
 </div>
 
 ![Snake animation](https://github.com/yasmindevegili/yasmindevegili/blob/output/github-contribution-grid-snake.svg)
-#### As you are here, take a look at my project Help!Fotógrafos
-<a href="https://yasmindevegili.github.io/Help_Fotografos.github.io"><img src="https://icones.pro/wp-content/uploads/2021/02/icono-de-camara-rojo.png" width=15%></a>
+#### As you are here, take a look at my latest projects:
+<a href="https://yasmindevegili.github.io/Help_Fotografos.github.io"><img src="https://icones.pro/wp-content/uploads/2021/02/icono-de-camara-rojo.png" width=5%></a>
 <br>
