@@ -16,11 +16,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmindevegili&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmindevegili&layout=compact&langs_count=7&theme=buefy" />
 </div>
-
-  <a href="https://yasmindevegili.github.io/Help_Fotografos/">Help Fotográfos</a>
-  <a href="https://learning-react-todos.vercel.app/">To Do's</a>
+<ul>
+  <li>
+    <a href="https://yasmindevegili.github.io/Help_Fotografos/">Help Fotográfos</a>
+  </li>
+  <li>
+    <a href="https://learning-react-todos.vercel.app/">To Do's</a>
+  </li>
   <br>                                                                                                                                
-
+</ul>
+  
 <div align="center"><br>
 <a href="mailto:yasmindevegili@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/yasmindevegili/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
