@@ -19,17 +19,9 @@
  
 ##
 
-<div align=center style="display: inline_block"><br>
-<img align="center" alt="Canva" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">  
-<img align="center" alt="Mysql" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-<img align="center" alt="Gimp" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
-<img align="center" alt="HTML5" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-<img align="center" alt="CSS3" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-<img align="center" alt="PHP" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-<img align="center" alt="C" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-<img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />          
-          
+#### As you are here, take a look at my latest projects:
+<a href="https://yasmindevegili.github.io/Help_Fotografos.github.io"><img src="https://icones.pro/wp-content/uploads/2021/02/icono-de-camara-rojo.png" width=5%>See whats it's about</a>
+<br>               
   
 ##
 
@@ -39,6 +31,13 @@
 </div>
 
 ![Snake animation](https://github.com/yasmindevegili/yasmindevegili/blob/output/github-contribution-grid-snake.svg)
-#### As you are here, take a look at my latest projects:
-<a href="https://yasmindevegili.github.io/Help_Fotografos.github.io"><img src="https://icones.pro/wp-content/uploads/2021/02/icono-de-camara-rojo.png" width=5%></a>
-<br>
+<div align=center style="display: inline_block"><br>
+<img align="center" alt="Canva" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">  
+<img align="center" alt="Mysql" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+<img align="center" alt="Gimp" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
+<img align="center" alt="HTML5" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+<img align="center" alt="CSS3" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+<img align="center" alt="PHP" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+<img align="center" alt="C" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+<img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> 
