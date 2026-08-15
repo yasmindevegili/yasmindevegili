@@ -20,11 +20,11 @@
 
 ## About me
 
-I'm a software engineer at **Accenture** working on Fleet Management systems that orchestrate autonomous logistics robots in real production environments. My day-to-day involves Python, FastAPI, React, and the kind of problems that happen when software meets physical hardware — latency matters, robots don't retry on their own, and downtime is expensive.
+I'm a software engineer working on Fleet Management systems that orchestrate autonomous logistics robots in real production environments. My day-to-day involves Python, FastAPI, React, and the kind of problems that happen when software meets physical hardware — latency matters, robots don't retry on their own, and downtime is expensive.
 
 On the side, I'm exploring **AI systems from the ground up** — currently building a personal library RAG system to understand how embeddings, vector search, and LLM generation actually work together, not just as a black box.
 
-I started as a technical IT intern, moved into industrial automation at Pollux, and now lead architecture decisions for robotics projects at Accenture. The through-line: I like systems where something real happens when the code runs.
+I started as a technical IT intern, moved into industrial automation, and now lead architecture decisions for robotics projects. The through-line: I like systems where something real happens when the code runs.
 
 ---
 
@@ -95,12 +95,12 @@ I started as a technical IT intern, moved into industrial automation at Pollux, 
 ## GitHub stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yasmindevegili&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yasmindevegili&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmindevegili&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasmindevegili&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=yasmindevegili&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
