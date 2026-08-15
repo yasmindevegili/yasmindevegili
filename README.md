@@ -92,17 +92,4 @@ I started as a technical IT intern, moved into industrial automation, and now le
 
 ---
 
-## GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yasmindevegili&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmindevegili&layout=compact&theme=radical&hide_border=true&langs_count=6"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yasmindevegili&theme=radical&hide_border=true"/>
-</p>
-
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:be185d,50:7c1d6f,100:1a0a1e&height=100&section=footer"/>
